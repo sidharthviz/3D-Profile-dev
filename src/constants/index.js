@@ -168,21 +168,25 @@ import {
   
   const projects = [
     {
-      name: "Issue Tracker",
+      name: "Juxtagram",
       description:
-        "Js Issue Tracker, Can add the issue open close and delete it. Built with pure Javascript | HTML | CSS.",
+        "A social media App, Where user can sign in and sign out with google and github also, User can post comment and delete the post as well as like the other's post.",
       tags: [
         {
-          name: "VanillaJS",
+          name: "Typescript",
           color: "blue-text-gradient",
         },
         {
-          name: "HTML",
+          name: "Nextjs",
           color: "green-text-gradient",
         },
         {
-          name: "CSS",
+          name: "postgreSQL",
           color: "pink-text-gradient",
+        },
+        {
+          name: "Tailwind",
+          color: "blue-text-gradient",
         },
       ],
       image: carrent,
