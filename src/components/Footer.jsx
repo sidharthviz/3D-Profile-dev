@@ -2,8 +2,8 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className='mt-10 bg-nuetral-900 text-center text-white'>
-      <div className='pb-5 flex justify-center container px-6 pt-2'>
+    <footer className='mt-10 bg-nuetral-100 text-center text-white sm: justify-center'>
+      <div className='pb-5 flex ml-12 justify-center container px-6 pt-2'>
          <div>
 
           <a href="https://github.com/sidharthviz" type='button' className='m-1 h-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150
