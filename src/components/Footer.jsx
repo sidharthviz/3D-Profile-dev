@@ -12,7 +12,7 @@ const Footer = () => {
           ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0'>
           <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="h-full w-9"
+          class="mx-auto h-full w-9"
           fill="currentColor"
           viewBox="0 0 24 24">
           <path
@@ -26,7 +26,7 @@ const Footer = () => {
           ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0'>
             <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="mx-auto h-full w-6"
+          class="mx-auto h-full w-4"
           fill="currentColor"
           viewBox="0 0 24 24">
           <path
