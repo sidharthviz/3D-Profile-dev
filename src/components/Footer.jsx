@@ -8,8 +8,8 @@ const Footer = () => {
       </div>
       <div className='pb-5  flex justify-center px-6 pt-2'>
          <div className='flex items-center'>
-          <a href="https://github.com/sidharthviz" type='button' className='m-1 h-9 rounded-full border-2 border-white uppercase leading-normal text-white transition duration-150
-          ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0'>
+          <a href="https://github.com/sidharthviz" type='button' className='h-9 rounded-full  leading-normal text-white
+           hover:bg-black hover:bg-opacity-5 focus:outline-none'>
           <svg
           xmlns="http://www.w3.org/2000/svg"
           class="mx-auto h-full w-9"
@@ -22,8 +22,8 @@ const Footer = () => {
          </div>
 
          <div className='flex ml-10 items-center'>
-         <a href="https://www.linkedin.com/in/siddharth-verma-2695ab192/" type='button' className='m-1 h-9 rounded-full w-9 border-2 border-white uppercase leading-normal text-white transition duration-150
-          ease-in-out hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0'>
+         <a href="https://www.linkedin.com/in/siddharth-verma-2695ab192/" type='button' className='h-9 rounded-full  leading-normal 
+          hover:bg-black hover:bg-opacity-5 focus:outline-none'>
             <svg
           xmlns="http://www.w3.org/2000/svg"
           class="mx-auto h-full w-4"
